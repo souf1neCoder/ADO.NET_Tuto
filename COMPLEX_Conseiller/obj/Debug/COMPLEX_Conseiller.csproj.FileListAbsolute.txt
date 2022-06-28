@@ -1,0 +1,12 @@
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\bin\Debug\COMPLEX_Conseiller.exe.config
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\bin\Debug\COMPLEX_Conseiller.exe
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\bin\Debug\COMPLEX_Conseiller.pdb
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\obj\Debug\COMPLEX_Conseiller.csprojAssemblyReference.cache
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\obj\Debug\COMPLEX_Conseiller.Form1.resources
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\obj\Debug\COMPLEX_Conseiller.Properties.Resources.resources
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\obj\Debug\COMPLEX_Conseiller.csproj.GenerateResource.cache
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\obj\Debug\COMPLEX_Conseiller.csproj.CoreCompileInputs.cache
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\obj\Debug\COMPLEX_Conseiller.exe
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\obj\Debug\COMPLEX_Conseiller.pdb
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\obj\Debug\COMPLEX_Conseiller.Accueil.resources
+C:\Users\NBJ\source\repos\COMPLEX_Conseiller\COMPLEX_Conseiller\obj\Debug\COMPLEX_Conseiller.ConseillerMR.resources
